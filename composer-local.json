@@ -3,7 +3,7 @@
 	"description": "Greenpeace P4 Philippines",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-child-theme-philippines" : "dev-master"
+		"greenpeace/planet4-child-theme-philippines" : "v0.*"
 	},
 	"scripts": {
 		"site:custom": [
