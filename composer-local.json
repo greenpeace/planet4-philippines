@@ -1,13 +1,15 @@
 {
-    "name": "greenpeace/planet4-philippines",
-    "description": "Greenpeace P4 Philippines",
-    "license": "MIT",
-    "require": {
-        "greenpeace/planet4-child-theme-philippines" : "dev-main"
-    },
-    "scripts": {
-        "site:custom": [
-        ]
-
-    }
+  "name": "greenpeace/planet4-philippines",
+  "description": "Greenpeace P4 Philippines",
+  "license": "MIT",
+  "require": {
+    "greenpeace/planet4-child-theme-philippines" : "dev-main",
+    "plugins/gravityforms": "*",
+    "plugins/gravityformsquiz": "*",
+    "plugins/gravityformshubspot": "*"
+  },
+  "scripts": {
+    "site:custom": [
+    ]
+  }
 }
